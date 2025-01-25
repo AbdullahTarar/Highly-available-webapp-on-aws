@@ -80,8 +80,8 @@ db_subnet_group_description = "rds-subnet-group"
 #-------------------------------------------------
 # Route53 
 #-------------------------------------------------
-domain_name = "wp-abdullah.equationsquare.com"
-zone_name   = "equationsquare.com"
+domain_name = "wp-abdullah"
+zone_name   = "abdullah-zone"
 
 
 
@@ -89,6 +89,6 @@ zone_name   = "equationsquare.com"
 # tags 
 #-------------------------------------------------
 tags = {
-  owner   = "abdullah.tarar@equationsqaure"
-  creator = "abdullah.tarar@equationsquare"
+  owner   = "abdullah tarar"
+  creator = "abdullah tarar"
 }
